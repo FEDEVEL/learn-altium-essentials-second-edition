@@ -1,0 +1,2 @@
+## Description
+These files are from Learn Altium Essentials (Second Edition) online course at FEDEVEL Academy. Here you can find the complete course: https://www.fedevel.com/academy/online-switching-power-supply-design-course/

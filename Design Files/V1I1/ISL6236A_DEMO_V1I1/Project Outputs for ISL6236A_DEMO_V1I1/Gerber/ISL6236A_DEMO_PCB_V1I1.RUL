@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: D:\FEDEVEL Academy\ISL6236A DEMO\Design Files\V1I1\ISL6236A_DEMO_V1I1\ISL6236A_DEMO_PCB_V1I1.PcbDoc
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=7.87
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
